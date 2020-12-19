@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420429995014",
+    "project_id": "app-265cabs",
+    "storage_bucket": "app-265cabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420429995014:android:d94f82eef93cac58bfb787",
+        "android_client_info": {
+          "package_name": "com.example.app265cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420429995014-s5pj3gos8f9ntovpn8b5f5nud043otk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_bfTVRbWNpS0XeNPUGyVeDRVjLzp3HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420429995014-s5pj3gos8f9ntovpn8b5f5nud043otk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
